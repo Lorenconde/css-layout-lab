@@ -11,7 +11,7 @@
 color: #1472B7;
 }
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("./img/banner.png");
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("../img/banner.png");
     background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ color: #1472B7;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
 }
 #transform-world {
-    background-image: url("./img/woman-code.png");
+    background-image: url("../img/woman-code.png");
     background-color: black;
     height: 560px;
     background-size: cover;
